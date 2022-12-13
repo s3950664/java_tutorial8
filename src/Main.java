@@ -46,7 +46,7 @@ public class Main {
                 sum += age;
             }
             System.out.println(name+" lives in "+address+" and is "+age+" years old");
-            System.out.println((float)sum/count);
         }
+        System.out.println((float)sum/count);
     }
 }
